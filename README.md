@@ -1,7 +1,5 @@
 "# freeCSS" 
 
-This is an updated file to check automated build
+This is an updated file to check the automated build
 
-Next update
 
-next Trail
